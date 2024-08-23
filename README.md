@@ -10,7 +10,7 @@ This project focuses on sentiment analysis and domain classification of tweets. 
 - Streamlit
 - Azure Databricks
 - Selenium for web scraping
-\```
+```
 ## Project Structure:
 ├── data
 │   ├── final_dataset_twitter.csv
@@ -26,7 +26,7 @@ This project focuses on sentiment analysis and domain classification of tweets. 
 │   ├── app.py
 │   └── requirements.txt
 └── README.md
-
+```
 ## Features
 - Sentiment analysis using Natural Language Processing.
 - Domain classification of tweets into categories like politics, education, etc using pre-trained BERT models.
